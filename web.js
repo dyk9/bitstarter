@@ -1,5 +1,5 @@
 var express = require('express');
-var index = fs.readdirSync(".");
+var index = fs.readdirSync("/");
 ///var index = fs.readFileSync("index.html");
 //var index = "index.html";
 var buffer = new Buffer(index.length);
