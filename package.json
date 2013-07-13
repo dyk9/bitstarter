@@ -21,5 +21,8 @@
   "keywords": [
     "node",
     "heroku"
-  ]
+  ],
+  "author": "Mark Pundsack",
+  "license": "BSD",
+  "gitHead": "90fd58e343c29e54fc1d4e19036595500b2bdc21"
 }
