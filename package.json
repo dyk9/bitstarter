@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "2.5.x"
+    "fs"
   },
   "engines": {
     "node": "0.8.x",
@@ -15,13 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/dyk9/bitstarter"
   },
   "keywords": [
     "node",
     "heroku"
   ],
-  "author": "Mark Pundsack",
-  "license": "BSD",
-  "gitHead": "90fd58e343c29e54fc1d4e19036595500b2bdc21"
 }
