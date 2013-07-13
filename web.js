@@ -1,5 +1,5 @@
 var express = require('express');
-var buffer = new Buffer("I'm a string!", "utf-8")
+var buffer = new Buffer(fs.readFileSync("index.html", "utf-8")
 
 var app = express.createServer(express.logger());
 
